@@ -62,4 +62,3 @@ fs.access(filePath, fs.constants.F_OK | fs.constants.R_OK, (err) => {
     countStatistics(alphabet);
   });
 });
-
